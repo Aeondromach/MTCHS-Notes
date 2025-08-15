@@ -1,5 +1,3 @@
-ethanmensior@gmail.com
-Sigma@1984
 # #Function
 
 Takes an Input of $(x)$ and produce 1 output of $f(x)$.
@@ -14,7 +12,7 @@ All numbers (-∞, ∞)
 ---
 # #E
 
-Is an element
+Is an element 
 
 ---
 # #Vertical_Line_Test
