@@ -11,3 +11,7 @@ $$L=\int^{b}_{a}\sqrt{1+(f^1(x))^2}~dx=\int^{b}_{a}\sqrt{1+(\frac{dy}{dx})^2}~dx
 ![[Arc Length Example 0 Picture 2]]
 
 ![[Arc Length Example 1]]
+## Discontinuities in $\frac{dy}{dx}$
+At a point on a curve where $\frac{dy}{dx}$ DNE, $\frac{dy}{dx}$ *may* exist.
+$$L=\int^d_c\sqrt{1+(\frac{dx}{dy})^2}~dy=\int^d_c\sqrt{1+(g^1(y))^2}~dy$$
+![[Arc Length Example 2]]
