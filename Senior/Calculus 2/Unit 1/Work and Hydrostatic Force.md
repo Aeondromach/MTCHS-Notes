@@ -9,3 +9,6 @@ $F~\text{(force stretch/compress spring)}=k~\text{(force constant)} * x~\text{(d
 ![[Work and Hydrostatic Force Example 1]]
 ## Weight is a FORCE
 ![[Work and Hydrostatic Force Example 2]]
+
+---
+![[Work and Hydrostatic Force Example 3]]
