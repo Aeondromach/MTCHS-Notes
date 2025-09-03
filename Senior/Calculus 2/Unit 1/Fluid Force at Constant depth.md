@@ -1,0 +1,1 @@
+$$F\text{ (fluid force)}=pA\text{ (surface area of object)}= wh$$
